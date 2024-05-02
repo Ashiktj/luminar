@@ -1,0 +1,136 @@
+
+
+#logo{
+    margin-left: 400px;
+    height: 70px;
+}
+
+
+#navheads{
+    margin-left:300px ;
+}
+
+.nav-item a{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 15px; 
+}
+.nav-item a:hover{
+    border-bottom: 2px solid rgb(109,29,142);
+    color:rgb(109,29,142) ;
+  
+}
+.headpart{
+    padding-left: 30px;
+    background-color:#F9F9F9 ;
+    height: 570px;
+    width: 100%;
+    text-align: left;
+    
+
+}
+
+.headpart h1{
+    color:rgb(109,29,142) ;
+    font-size: 48px;
+    margin-top: 155px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-bottom :15px; ;
+
+}
+.headpart h5{
+
+    color:rgb(109,29,142) ;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom :30px; ;
+
+
+}
+
+.part2{
+    background-color: rgb(222,204,255);
+    background-image: url(https://www.luminartechnolab.com/static/media/online-certification-concept-with-books_23-2148573636.bf9ec30b.png);
+    background-position: 950px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 485px;
+    width: 100%;    
+}
+
+.part2 img{
+   height: 80%;
+   margin: 50px;
+   
+}
+.head{
+    color:rgb(109,29,142) ;
+    padding-top: 100px;
+    margin-left: 420px;
+    width: 500px;
+}
+.head button{
+    height: 45px;
+    width: 145px;
+    border-radius: 30px;
+    background-color:rgb(109,29,142) ;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px;
+}
+.col-8 h1{
+    color:rgb(109,29,142) ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+    font-weight: 700;
+   
+    
+}
+
+.icon{
+    height: 200px;
+    width: 200px;
+}
+
+
+.pictext{
+    position: absolute;
+    color: white;
+    left: 25%;
+    text-align: center;
+    margin-top: 120px;
+    
+
+}
+.pictext h1{
+    font-size: 47px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+
+
+}
+
+
+.pictext button{
+    margin-top: 30px;
+    height: 47px;
+    width: 162px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 30px ;
+    color: rgb(109,29,142);
+    font-size: 20px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.card{
+    background-color:rgb(239, 239, 239) ;
+}
+
+.card-title{
+    color: rgb(109,29,142);
+}
+
